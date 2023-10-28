@@ -4,7 +4,7 @@ Paste your combo in "combo.txt" file
 
 How to use the Combo-Extractor
 
-python coex.py combo.txt extracted.txt
+python ex.py combo.txt extracted.txt
 
 It will extract all email:pass in "extracted.txt" file.
 
